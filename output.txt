@@ -28,11 +28,11 @@ output:
 Run the connected components algorithm on it and find the top 5 components with the largestnumber of nodes?
 output:
 (component, count)
-0 70414
-10323 6
-60237 6
-73206 5
-74827 4
+0 70497
+2775 7
+78928 6
+66549 6
+61526 5
 
 Run the triangle counts algorithm on each of the vertices and output the top 5 vertices with the largest triangle count. In case of ties, you can randomly select the top 5 vertices?
 output:
